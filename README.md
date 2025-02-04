@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Thangadurai
+                      ## Hi there 👋 I'm Thangadurai
 
 
 I am a B.Tech IT student with a 7.5 CGPA, skilled in Java and related technologies like Spring Boot, Hibernate, and
