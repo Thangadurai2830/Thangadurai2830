@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Resource Sharing Platform**
 
-- Portfolio [https://thangadurai.netlify.app/](https://thangadurai.netlify.app/)
+- [Portfolio](https://thangadurai.netlify.app/)
 
 - 📫 How to reach me **thangaduraibeit100@gmail.com**
 
-- Resume [https://drive.google.com/file/d/1-ZQbY20eA32ekgr4d6ku2e7tw6hpEKs0/view?usp=sharing](https://drive.google.com/file/d/1-ZQbY20eA32ekgr4d6ku2e7tw6hpEKs0/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1-ZQbY20eA32ekgr4d6ku2e7tw6hpEKs0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
