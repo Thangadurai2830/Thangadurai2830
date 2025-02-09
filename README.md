@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thangadurai G</h1>
-<h3 align="center">MERN Stack Developer | JAVA FullStack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Resource Sharing Platform**
+- 🔭 I’m currently working on [Resource Sharing Platform](https://github.com/Thangadurai2830/Resource_Sharing_Platform)
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 👯 I’m looking to collaborate on **Resource Sharing Platform**
+- 👯 I’m looking to collaborate on [Resource Sharing Platform](https://github.com/Thangadurai2830/Resource_Sharing_Platform)
 
 - 📫 How to reach me **thangaduraibeit100@gmail.com**
+
+- [Resume](https://drive.google.com/file/d/1-ZQbY20eA32ekgr4d6ku2e7tw6hpEKs0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
