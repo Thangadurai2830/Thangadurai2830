@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thangadurai-g/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=netlify&logoColor=58a6ff)](https://thangadurai-freelancer-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=netlify&logoColor=58a6ff)](https://thangadurai-portfolio.web.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com)
 [![X](https://img.shields.io/badge/X-161b22?style=flat-square&logo=x&logoColor=e6edf3)](https://x.com/Thanga_durai_30)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/thanga_durai_2830/)
