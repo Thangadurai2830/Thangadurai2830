@@ -1,277 +1,535 @@
-<div align="center">
+import { useState } from "react";
+import {
+  Code2, Brain, Globe, Mail, Linkedin, Twitter, Instagram,
+  Facebook, ExternalLink, Github, Star, GitFork, Layers,
+  Database, Terminal, Cpu, FlaskConical, BarChart3, Zap,
+  BookOpen, CheckCircle2, Circle, ChevronDown, ChevronUp,
+  Shield, Cloud, Smartphone, ArrowUpRight, Sparkles,
+  GraduationCap, Briefcase, MapPin, Activity
+} from "lucide-react";
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Thangadurai%20G&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20B.Tech%20IT&descAlignY=58&descColor=a0a0ff&animation=fadeIn" width="100%"/>
+const GOLD = "#c9a84c";
+const GOLD_DIM = "#8a6d2f";
+const BG = "#0b0e14";
+const SURFACE = "#111520";
+const SURFACE2 = "#161b27";
+const BORDER = "#1e2535";
+const BORDER_GLOW = "#2a3450";
+const TEXT = "#e8ecf4";
+const MUTED = "#6b7799";
+const ACCENT_BLUE = "#4a7fd4";
+const ACCENT_TEAL = "#2dd4bf";
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=Building+Intelligent+Web+Applications;Deep+Learning+%7C+NLP+%7C+Computer+Vision;MERN+Stack+%7C+Spring+Boot+%7C+Django;Turning+Data+into+Decisions+🚀" alt="Typing SVG" />
-</a>
+export default function GitHubProfile() {
+  const [openSection, setOpenSection] = useState(null);
+  const toggle = (s) => setOpenSection(openSection === s ? null : s);
 
-<br/>
+  const skills = [
+    {
+      id: "frontend",
+      icon: <Globe size={18} color={GOLD} />,
+      label: "Frontend",
+      items: ["React.js", "Tailwind CSS", "JavaScript", "TypeScript", "HTML5/CSS3", "GSAP", "Vite"],
+    },
+    {
+      id: "backend",
+      icon: <Terminal size={18} color={GOLD} />,
+      label: "Backend",
+      items: ["Node.js", "Express.js", "Spring Boot", "Django", "Flask", "Java", "Python"],
+    },
+    {
+      id: "database",
+      icon: <Database size={18} color={GOLD} />,
+      label: "Database & Cloud",
+      items: ["MongoDB", "MySQL", "Hibernate", "Netlify", "Vercel", "Render"],
+    },
+    {
+      id: "ml",
+      icon: <Brain size={18} color={GOLD} />,
+      label: "AI / ML / Deep Learning",
+      items: ["TensorFlow", "Keras", "PyTorch", "scikit-learn", "XGBoost", "Vision Transformer", "Swin Transformer", "SHAP", "LIME", "NLP", "Time Series"],
+    },
+    {
+      id: "data",
+      icon: <BarChart3 size={18} color={GOLD} />,
+      label: "Data Science",
+      items: ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "MLflow", "Google Colab"],
+    },
+    {
+      id: "tools",
+      icon: <Zap size={18} color={GOLD} />,
+      label: "Dev Tools",
+      items: ["Git", "GitHub", "Postman", "VS Code", "Docker (learning)"],
+    },
+  ];
 
-<!-- Profile Views + Social Badges -->
-[![Profile Views](https://visitcount.itsvg.in/api?id=Thangadurai2830&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thangadurai-g/)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C83FD?style=flat-square&logo=vercel&logoColor=white)](https://thangadurai-freelancer-portfolio.netlify.app/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com)
+  const projects = [
+    {
+      icon: <FlaskConical size={20} color={GOLD} />,
+      title: "Diabetic Nephropathy Detection",
+      subtitle: "Hybrid Deep & Machine Learning System",
+      tags: ["TensorFlow", "React", "Django", "SHAP", "Vision Transformer"],
+      desc: "Early detection of Diabetic Nephropathy fusing structured clinical data with retinal images. Ensemble of Vision Transformer + Swin Transformer with SHAP/LIME explainability for clinical-grade interpretability.",
+      accent: GOLD,
+    },
+    {
+      icon: <Layers size={20} color={ACCENT_TEAL} />,
+      title: "E-Commerce Clothing Store",
+      subtitle: "Full-featured MERN Stack Shop",
+      tags: ["MongoDB", "Express", "React", "Node.js", "JWT"],
+      desc: "End-to-end online store with product catalog, cart, JWT auth, role-based access, order tracking, admin dashboard, and payment gateway integration.",
+      accent: ACCENT_TEAL,
+    },
+    {
+      icon: <BookOpen size={20} color={ACCENT_BLUE} />,
+      title: "Study Material Platform",
+      subtitle: "Student–Teacher Collaboration Portal",
+      tags: ["Node.js", "MongoDB", "React", "REST API"],
+      desc: "Platform for uploading, organizing, and sharing academic resources with role-based dashboards for students and educators, plus engagement analytics.",
+      accent: ACCENT_BLUE,
+    },
+    {
+      icon: <Sparkles size={20} color="#a78bfa" />,
+      title: "Gemini AI Clone",
+      subtitle: "AI-Powered Conversational Assistant",
+      tags: ["React", "Gemini API", "Tailwind CSS"],
+      desc: "Real-time streaming chat assistant powered by Google Gemini API with persistent conversation history, animated UI, and session management.",
+      accent: "#a78bfa",
+    },
+  ];
 
-</div>
+  const roadmap = [
+    { done: true, label: "MERN Stack — production-grade architecture" },
+    { done: true, label: "Transformer models — Vision & Language" },
+    { done: true, label: "Model explainability — SHAP & LIME" },
+    { done: false, label: "MLOps — CI/CD pipelines with MLflow & DVC" },
+    { done: false, label: "Docker & Kubernetes — containerized deployments" },
+    { done: false, label: "AWS / GCP — cloud ML infrastructure" },
+    { done: false, label: "LLM fine-tuning — custom domain adaptation" },
+    { done: false, label: "React Native — cross-platform mobile apps" },
+  ];
 
----
+  const socials = [
+    { icon: <Linkedin size={16} />, label: "LinkedIn", href: "https://www.linkedin.com/in/thangadurai-g/" },
+    { icon: <Github size={16} />, label: "GitHub", href: "https://github.com/Thangadurai2830" },
+    { icon: <Globe size={16} />, label: "Portfolio", href: "https://thangadurai-freelancer-portfolio.netlify.app/" },
+    { icon: <Mail size={16} />, label: "Email", href: "mailto:thangaduraibeit100@gmail.com" },
+    { icon: <Twitter size={16} />, label: "X / Twitter", href: "https://x.com/Thanga_durai_30" },
+    { icon: <Instagram size={16} />, label: "Instagram", href: "https://www.instagram.com/thanga_durai_2830/" },
+    { icon: <Facebook size={16} />, label: "Facebook", href: "https://www.facebook.com/Silver.Screen.Spot" },
+  ];
 
-## 🧬 About Me
+  const proficiency = [
+    { label: "Full Stack Dev", pct: 90, color: GOLD },
+    { label: "Machine Learning", pct: 85, color: ACCENT_TEAL },
+    { label: "Deep Learning", pct: 75, color: ACCENT_BLUE },
+    { label: "NLP", pct: 70, color: "#a78bfa" },
+    { label: "Data Science", pct: 82, color: "#f472b6" },
+    { label: "Cloud / DevOps", pct: 55, color: "#fb923c" },
+  ];
 
-```python
-class Thangadurai:
-    def __init__(self):
-        self.name        = "Thangadurai G"
-        self.role        = ["Full Stack Developer", "AI/ML Engineer", "Freelancer"]
-        self.education   = "B.Tech Information Technology"
-        self.location    = "India 🇮🇳"
-        self.email       = "thangaduraibeit100@gmail.com"
-        self.portfolio   = "https://thangadurai-freelancer-portfolio.netlify.app/"
+  const s = {
+    root: {
+      background: BG,
+      minHeight: "100vh",
+      fontFamily: "'DM Sans', sans-serif",
+      color: TEXT,
+      padding: "0",
+    },
+    importFont: `
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap');
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+      ::-webkit-scrollbar { width: 4px; }
+      ::-webkit-scrollbar-track { background: ${BG}; }
+      ::-webkit-scrollbar-thumb { background: ${GOLD_DIM}; border-radius: 2px; }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(24px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes shimmer {
+        0% { background-position: -200% center; }
+        100% { background-position: 200% center; }
+      }
+      @keyframes pulse-ring {
+        0%, 100% { box-shadow: 0 0 0 0 rgba(201,168,76,0.15); }
+        50% { box-shadow: 0 0 0 8px rgba(201,168,76,0); }
+      }
+      .fade-up { animation: fadeUp 0.6s ease both; }
+      .skill-pill:hover { background: ${BORDER_GLOW} !important; color: ${GOLD} !important; border-color: ${GOLD_DIM} !important; transition: all 0.2s; }
+      .project-card:hover { border-color: ${GOLD_DIM} !important; transform: translateY(-2px); transition: all 0.25s; }
+      .social-btn:hover { background: ${SURFACE2} !important; border-color: ${GOLD_DIM} !important; color: ${GOLD} !important; }
+      .stat-card:hover { border-color: ${GOLD_DIM} !important; }
+      .roadmap-item:hover { background: ${SURFACE2} !important; }
+      details summary { cursor: pointer; list-style: none; }
+      details summary::-webkit-details-marker { display: none; }
+    `,
+  };
 
-    def current_focus(self):
-        return [
-            "🧠 Deep Learning — Vision Transformers & Model Explainability",
-            "💬 NLP — Chatbots, Embeddings, Sentiment Systems",
-            "📊 Time Series — Forecasting & Anomaly Detection",
-            "⚙️  MLOps — Model Tracking, Deployment & Monitoring"
-        ]
+  return (
+    <>
+      <style>{s.importFont}</style>
+      <div style={s.root}>
 
-    def life_philosophy(self):
-        return "Build → Break → Learn → Repeat 🔁"
+        {/* ── HERO ── */}
+        <div style={{
+          position: "relative",
+          padding: "72px 40px 56px",
+          borderBottom: `1px solid ${BORDER}`,
+          overflow: "hidden",
+        }}>
+          {/* Grid decoration */}
+          <div style={{
+            position: "absolute", inset: 0, opacity: 0.04,
+            backgroundImage: `linear-gradient(${BORDER} 1px, transparent 1px), linear-gradient(90deg, ${BORDER} 1px, transparent 1px)`,
+            backgroundSize: "40px 40px",
+          }} />
+          {/* Gold accent line */}
+          <div style={{
+            position: "absolute", top: 0, left: 40, right: 40,
+            height: "2px",
+            background: `linear-gradient(90deg, transparent, ${GOLD}, transparent)`,
+          }} />
 
-me = Thangadurai()
-print(me.life_philosophy())
-# Output: Build → Break → Learn → Repeat 🔁
-```
+          <div style={{ maxWidth: 900, margin: "0 auto", position: "relative" }}>
+            {/* Badge row */}
+            <div style={{ display: "flex", gap: 8, marginBottom: 28, flexWrap: "wrap" }}>
+              {[
+                { icon: <GraduationCap size={13} />, label: "B.Tech IT" },
+                { icon: <Code2 size={13} />, label: "Full Stack Developer" },
+                { icon: <Brain size={13} />, label: "AI / ML Engineer" },
+                { icon: <Briefcase size={13} />, label: "Freelancer" },
+                { icon: <MapPin size={13} />, label: "India" },
+              ].map((b) => (
+                <span key={b.label} style={{
+                  display: "inline-flex", alignItems: "center", gap: 5,
+                  background: SURFACE, border: `1px solid ${BORDER}`,
+                  borderRadius: 20, padding: "4px 12px",
+                  fontSize: 12, color: MUTED, fontWeight: 500, letterSpacing: "0.02em",
+                }}>
+                  <span style={{ color: GOLD }}>{b.icon}</span>
+                  {b.label}
+                </span>
+              ))}
+            </div>
 
----
+            {/* Name */}
+            <h1 style={{
+              fontFamily: "'Cormorant Garamond', serif",
+              fontSize: "clamp(44px, 7vw, 72px)",
+              fontWeight: 700,
+              lineHeight: 1.05,
+              letterSpacing: "-0.02em",
+              marginBottom: 18,
+              color: TEXT,
+            }}>
+              Thangadurai{" "}
+              <span style={{
+                background: `linear-gradient(135deg, ${GOLD} 0%, #f0d080 50%, ${GOLD} 100%)`,
+                backgroundSize: "200% auto",
+                WebkitBackgroundClip: "text",
+                WebkitTextFillColor: "transparent",
+                animation: "shimmer 3s linear infinite",
+              }}>G.</span>
+            </h1>
 
-## 🛠️ Tech Arsenal
+            <p style={{
+              fontSize: 17, color: MUTED, lineHeight: 1.7,
+              maxWidth: 580, marginBottom: 36, fontWeight: 300,
+            }}>
+              Building intelligent web applications at the intersection of
+              modern frontend, scalable backend, and production-grade ML systems.
+              Passionate about turning complex data into clear decisions.
+            </p>
 
-<details>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
+            {/* CTA row */}
+            <div style={{ display: "flex", gap: 12, flexWrap: "wrap" }}>
+              <a href="https://thangadurai-freelancer-portfolio.netlify.app/" target="_blank" rel="noreferrer"
+                style={{
+                  display: "inline-flex", alignItems: "center", gap: 8,
+                  background: GOLD, color: "#0b0e14", borderRadius: 8,
+                  padding: "10px 22px", fontWeight: 600, fontSize: 14,
+                  textDecoration: "none", letterSpacing: "0.02em",
+                  animation: "pulse-ring 2.5s ease infinite",
+                }}>
+                <Globe size={15} /> View Portfolio <ArrowUpRight size={14} />
+              </a>
+              <a href="mailto:thangaduraibeit100@gmail.com"
+                style={{
+                  display: "inline-flex", alignItems: "center", gap: 8,
+                  background: "transparent", color: TEXT,
+                  border: `1px solid ${BORDER_GLOW}`, borderRadius: 8,
+                  padding: "10px 22px", fontWeight: 500, fontSize: 14,
+                  textDecoration: "none", letterSpacing: "0.02em",
+                }}>
+                <Mail size={15} /> Get In Touch
+              </a>
+            </div>
+          </div>
+        </div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+        <div style={{ maxWidth: 900, margin: "0 auto", padding: "48px 40px" }}>
 
-</details>
+          {/* ── IDENTITY CARD ── */}
+          <div style={{
+            background: SURFACE, border: `1px solid ${BORDER}`, borderRadius: 14,
+            padding: "28px 32px", marginBottom: 40,
+            borderLeft: `3px solid ${GOLD}`,
+            fontFamily: "'DM Mono', monospace",
+          }} className="fade-up">
+            <div style={{ color: GOLD_DIM, fontSize: 13, marginBottom: 8 }}>identity.py</div>
+            <pre style={{
+              fontSize: 13, lineHeight: 2, overflowX: "auto",
+              color: "#8899cc",
+              whiteSpace: "pre-wrap",
+            }}>{`class Thangadurai:
+    name        = `}<span style={{ color: ACCENT_TEAL }}>"Thangadurai G"</span>{`
+    role        = `}<span style={{ color: ACCENT_TEAL }}>["Full Stack Dev", "AI/ML Engineer", "Freelancer"]</span>{`
+    education   = `}<span style={{ color: ACCENT_TEAL }}>"B.Tech Information Technology"</span>{`
+    location    = `}<span style={{ color: ACCENT_TEAL }}>"India"</span>{`
+    philosophy  = `}<span style={{ color: GOLD }}>"Build → Break → Learn → Repeat"</span></pre>
+          </div>
 
-<details>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
+          {/* ── SKILL STACK ── */}
+          <SectionHeading icon={<Cpu size={18} color={GOLD} />} title="Tech Stack" />
+          <div style={{ display: "flex", flexDirection: "column", gap: 4, marginBottom: 40 }}>
+            {skills.map((sk) => {
+              const isOpen = openSection === sk.id;
+              return (
+                <div key={sk.id} style={{
+                  background: SURFACE, border: `1px solid ${isOpen ? BORDER_GLOW : BORDER}`,
+                  borderRadius: 10, overflow: "hidden",
+                  transition: "border-color 0.2s",
+                }}>
+                  <button
+                    onClick={() => toggle(sk.id)}
+                    style={{
+                      width: "100%", display: "flex", alignItems: "center",
+                      justifyContent: "space-between", gap: 12,
+                      padding: "14px 20px", background: "transparent",
+                      border: "none", cursor: "pointer", color: TEXT,
+                    }}>
+                    <span style={{ display: "flex", alignItems: "center", gap: 10 }}>
+                      {sk.icon}
+                      <span style={{ fontSize: 14, fontWeight: 500 }}>{sk.label}</span>
+                    </span>
+                    {isOpen
+                      ? <ChevronUp size={15} color={MUTED} />
+                      : <ChevronDown size={15} color={MUTED} />}
+                  </button>
+                  {isOpen && (
+                    <div style={{
+                      padding: "4px 20px 18px",
+                      display: "flex", flexWrap: "wrap", gap: 8,
+                    }}>
+                      {sk.items.map((item) => (
+                        <span key={item} className="skill-pill" style={{
+                          background: BG, border: `1px solid ${BORDER}`,
+                          borderRadius: 6, padding: "5px 12px",
+                          fontSize: 12, color: MUTED, fontFamily: "'DM Mono', monospace",
+                          cursor: "default", transition: "all 0.2s",
+                        }}>{item}</span>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+          {/* ── PROJECTS ── */}
+          <SectionHeading icon={<Layers size={18} color={GOLD} />} title="Featured Projects" />
+          <div style={{
+            display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(380px, 1fr))",
+            gap: 16, marginBottom: 48,
+          }}>
+            {projects.map((p) => (
+              <div key={p.title} className="project-card" style={{
+                background: SURFACE, border: `1px solid ${BORDER}`,
+                borderRadius: 12, padding: "24px",
+                borderTop: `2px solid ${p.accent}`,
+                transition: "all 0.25s",
+              }}>
+                <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 10 }}>
+                  <div style={{
+                    width: 38, height: 38, borderRadius: 10,
+                    background: `${p.accent}14`,
+                    display: "flex", alignItems: "center", justifyContent: "center",
+                  }}>
+                    {p.icon}
+                  </div>
+                  <div>
+                    <div style={{ fontSize: 15, fontWeight: 600, color: TEXT }}>{p.title}</div>
+                    <div style={{ fontSize: 12, color: MUTED }}>{p.subtitle}</div>
+                  </div>
+                </div>
+                <p style={{ fontSize: 13, color: MUTED, lineHeight: 1.7, marginBottom: 14 }}>{p.desc}</p>
+                <div style={{ display: "flex", flexWrap: "wrap", gap: 6 }}>
+                  {p.tags.map((t) => (
+                    <span key={t} style={{
+                      background: BG, border: `1px solid ${BORDER}`,
+                      borderRadius: 4, padding: "3px 9px",
+                      fontSize: 11, color: MUTED, fontFamily: "'DM Mono', monospace",
+                    }}>{t}</span>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
 
-</details>
+          {/* ── PROFICIENCY ── */}
+          <SectionHeading icon={<Activity size={18} color={GOLD} />} title="Skill Proficiency" />
+          <div style={{
+            background: SURFACE, border: `1px solid ${BORDER}`,
+            borderRadius: 12, padding: "28px 32px", marginBottom: 48,
+          }}>
+            {proficiency.map((p, i) => (
+              <div key={p.label} style={{ marginBottom: i < proficiency.length - 1 ? 18 : 0 }}>
+                <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 6 }}>
+                  <span style={{ fontSize: 13, color: TEXT, fontWeight: 500 }}>{p.label}</span>
+                  <span style={{ fontSize: 13, color: MUTED, fontFamily: "'DM Mono', monospace" }}>{p.pct}%</span>
+                </div>
+                <div style={{ height: 4, background: BORDER, borderRadius: 4 }}>
+                  <div style={{
+                    height: "100%", width: `${p.pct}%`,
+                    background: p.color, borderRadius: 4,
+                    transition: "width 1s ease",
+                  }} />
+                </div>
+              </div>
+            ))}
+          </div>
 
-<details>
-<summary><b>🗄️ Databases & Cloud</b></summary>
-<br/>
+          {/* ── ROADMAP ── */}
+          <SectionHeading icon={<Star size={18} color={GOLD} />} title="2025 Learning Roadmap" />
+          <div style={{
+            background: SURFACE, border: `1px solid ${BORDER}`,
+            borderRadius: 12, padding: "8px 0", marginBottom: 48,
+          }}>
+            {roadmap.map((r, i) => (
+              <div key={i} className="roadmap-item" style={{
+                display: "flex", alignItems: "center", gap: 14,
+                padding: "13px 24px",
+                borderBottom: i < roadmap.length - 1 ? `1px solid ${BORDER}` : "none",
+                transition: "background 0.2s",
+              }}>
+                {r.done
+                  ? <CheckCircle2 size={16} color={ACCENT_TEAL} />
+                  : <Circle size={16} color={BORDER_GLOW} />}
+                <span style={{ fontSize: 14, color: r.done ? TEXT : MUTED, lineHeight: 1.5 }}>
+                  {r.label}
+                </span>
+                {r.done && (
+                  <span style={{
+                    marginLeft: "auto", fontSize: 11, color: ACCENT_TEAL,
+                    background: `${ACCENT_TEAL}14`, border: `1px solid ${ACCENT_TEAL}30`,
+                    borderRadius: 4, padding: "2px 8px", fontWeight: 500,
+                  }}>done</span>
+                )}
+              </div>
+            ))}
+          </div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+          {/* ── GITHUB STATS ── */}
+          <SectionHeading icon={<Github size={18} color={GOLD} />} title="GitHub Analytics" />
+          <div style={{
+            display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))",
+            gap: 12, marginBottom: 48,
+          }}>
+            {[
+              { src: "https://github-readme-stats.vercel.app/api?username=Thangadurai2830&theme=transparent&hide_border=true&show_icons=true&title_color=c9a84c&icon_color=c9a84c&text_color=8899cc&bg_color=00000000", alt: "stats" },
+              { src: "https://github-readme-stats.vercel.app/api/top-langs/?username=Thangadurai2830&theme=transparent&hide_border=true&layout=compact&title_color=c9a84c&text_color=8899cc&bg_color=00000000", alt: "langs" },
+            ].map((img) => (
+              <div key={img.alt} className="stat-card" style={{
+                background: SURFACE, border: `1px solid ${BORDER}`,
+                borderRadius: 12, padding: "20px",
+                display: "flex", alignItems: "center", justifyContent: "center",
+                overflow: "hidden", transition: "border-color 0.2s",
+              }}>
+                <img src={img.src} alt={img.alt} style={{ width: "100%", maxWidth: 360 }} />
+              </div>
+            ))}
+          </div>
+          <div style={{
+            background: SURFACE, border: `1px solid ${BORDER}`,
+            borderRadius: 12, padding: "20px", marginBottom: 48,
+            display: "flex", alignItems: "center", justifyContent: "center",
+          }}>
+            <img
+              src="https://nirzak-streak-stats.vercel.app/?user=Thangadurai2830&theme=transparent&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=8899cc&currStreakNum=e8ecf4&sideNums=e8ecf4&dates=6b7799&background=00000000"
+              alt="streak" style={{ width: "100%", maxWidth: 560 }}
+            />
+          </div>
 
-</details>
+          {/* ── SOCIALS ── */}
+          <SectionHeading icon={<Mail size={18} color={GOLD} />} title="Connect With Me" />
+          <div style={{ display: "flex", flexWrap: "wrap", gap: 10, marginBottom: 56 }}>
+            {socials.map((sc) => (
+              <a key={sc.label} href={sc.href} target="_blank" rel="noreferrer"
+                className="social-btn"
+                style={{
+                  display: "inline-flex", alignItems: "center", gap: 8,
+                  background: SURFACE, border: `1px solid ${BORDER}`,
+                  borderRadius: 8, padding: "9px 16px",
+                  fontSize: 13, color: TEXT, textDecoration: "none",
+                  fontWeight: 500, transition: "all 0.2s",
+                }}>
+                <span style={{ color: GOLD }}>{sc.icon}</span>
+                {sc.label}
+                <ExternalLink size={12} color={MUTED} />
+              </a>
+            ))}
+          </div>
 
-<details>
-<summary><b>🤖 AI / ML / Deep Learning</b></summary>
-<br/>
+          {/* ── FOOTER ── */}
+          <div style={{
+            borderTop: `1px solid ${BORDER}`,
+            paddingTop: 32,
+            display: "flex", flexDirection: "column", alignItems: "center", gap: 12, textAlign: "center",
+          }}>
+            <div style={{
+              width: 40, height: 2, background: `linear-gradient(90deg, transparent, ${GOLD}, transparent)`,
+              marginBottom: 8,
+            }} />
+            <p style={{
+              fontFamily: "'Cormorant Garamond', serif",
+              fontSize: 20, color: MUTED, fontStyle: "italic",
+            }}>
+              "Code is not just syntax — it's the art of solving real human problems."
+            </p>
+            <p style={{ fontSize: 12, color: `${MUTED}88` }}>
+              Thangadurai G · Full Stack Developer & AI/ML Engineer · India
+            </p>
+          </div>
 
-**Machine Learning**
+        </div>
+      </div>
+    </>
+  );
+}
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-
-**Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Data & Visualization**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔧 Dev Tools & Workflow</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩺 Diabetic Nephropathy Detection System</h3>
-      <p><strong>Hybrid Deep & Machine Learning Web System</strong></p>
-      <ul>
-        <li>🔬 Fuses structured clinical data + retinal images for early-stage detection</li>
-        <li>🧠 Vision Transformer + Swin Transformer ensemble architecture</li>
-        <li>💡 SHAP & LIME for clinical-grade model explainability</li>
-        <li>🌐 Full-stack deployment with Django REST + React frontend</li>
-      </ul>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/SHAP-blueviolet?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 E-Commerce Clothing Store</h3>
-      <p><strong>MERN Stack Full-Featured Online Shop</strong></p>
-      <ul>
-        <li>🛍️ Full product catalog, cart & checkout flow</li>
-        <li>🔐 JWT authentication & role-based access</li>
-        <li>📦 Order tracking & admin dashboard</li>
-        <li>💳 Integrated payment gateway</li>
-      </ul>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Study Material Sharing Platform</h3>
-      <p><strong>Student-Teacher Collaboration Portal</strong></p>
-      <ul>
-        <li>📁 Upload, organize, and share academic resources</li>
-        <li>🔍 Search & filter by subject, semester, or topic</li>
-        <li>👥 Role-based dashboard for students and educators</li>
-        <li>📊 Engagement analytics for teachers</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Gemini AI Clone</h3>
-      <p><strong>AI-Powered Conversational Assistant</strong></p>
-      <ul>
-        <li>💬 Real-time streaming responses via Gemini API</li>
-        <li>🗂️ Persistent conversation history management</li>
-        <li>🎨 Clean, animated chat UI with Tailwind CSS</li>
-        <li>🔒 User session management & API key handling</li>
-      </ul>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thangadurai2830&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangadurai2830&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Thangadurai2830&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thangadurai2830&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
-
-</div>
-
----
-
-## 📊 Skill Proficiency
-
-```text
-Full Stack Development  ████████████████████░░  90%
-Machine Learning        ███████████████████░░░░  85%
-Deep Learning           ████████████████░░░░░░░  75%
-NLP                     ████████████████░░░░░░░  70%
-Data Science            ███████████████████░░░░  82%
-Cloud Deployment        █████████████░░░░░░░░░░  60%
-```
-
----
-
-## 🎯 2025 Learning Roadmap
-
-- [x] 🏗️ MERN Stack — Production-grade architecture
-- [x] 🤖 Transformer models — Vision & Language
-- [x] 📊 Model explainability — SHAP & LIME
-- [ ] 🔁 MLOps — CI/CD for ML models (MLflow, DVC)
-- [ ] 🐳 Docker & Kubernetes — Containerized deployments
-- [ ] ☁️ AWS / GCP — Cloud ML infrastructure
-- [ ] 🧪 LLM Fine-tuning — Custom domain adaptation
-- [ ] 📱 React Native — Cross-platform mobile apps
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thangadurai%20G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thangadurai-g/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-thangadurai.netlify.app-7C83FD?style=for-the-badge&logo=netlify&logoColor=white)](https://thangadurai-freelancer-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Gmail-thangaduraibeit100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com)
-
-[![X / Twitter](https://img.shields.io/badge/X-@Thanga__durai__30-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Thanga_durai_30)
-[![Instagram](https://img.shields.io/badge/Instagram-@thanga__durai__2830-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thanga_durai_2830/)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Silver.Screen.Spot)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-**"Code is not just syntax — it's the art of solving real human problems."**
-
-⭐ *If you find my work valuable, consider starring the repo — it genuinely motivates me to keep building!*
-
-</div>
+function SectionHeading({ icon, title }) {
+  return (
+    <div style={{
+      display: "flex", alignItems: "center", gap: 10,
+      marginBottom: 20,
+    }}>
+      <div style={{
+        width: 34, height: 34, borderRadius: 8,
+        background: `rgba(201,168,76,0.1)`,
+        border: `1px solid rgba(201,168,76,0.2)`,
+        display: "flex", alignItems: "center", justifyContent: "center",
+      }}>
+        {icon}
+      </div>
+      <h2 style={{
+        fontFamily: "'Cormorant Garamond', serif",
+        fontSize: 22, fontWeight: 600,
+        color: "#e8ecf4", letterSpacing: "0.01em",
+      }}>{title}</h2>
+      <div style={{
+        flex: 1, height: "1px",
+        background: `linear-gradient(90deg, rgba(201,168,76,0.3), transparent)`,
+      }} />
+    </div>
+  );
+}
