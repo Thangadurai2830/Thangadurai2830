@@ -1,21 +1,151 @@
-# 💫 About Me:
-## 👋 Hi there! I'm Thangadurai<br><br>🎓 B.Tech IT Student | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 💼 Freelancer  <br>🚀 Passionate about building intelligent web apps & exploring real-world AI solutions!<br><br>---<br><br>### 🧠 Skills & Tech Stack<br>- 🎨 **Frontend**: React.js ⚛️, Tailwind CSS 🌬️, JavaScript 🟨, HTML5 🟥, CSS3 🔷, Bootstrap 🟦, GSAP 🎞️  <br>- 🔧 **Backend**: Node.js 🌿, Express.js 🚂, Spring Boot 🌼, Django 🐍  <br>- 🗄️ **Database**: MongoDB 🍃, MySQL 🐬  <br>- 🤖 **AI / ML / Data Science**:<br>  - 🧠 ML: scikit-learn 📊, XGBoost 🚀, Random Forest 🌳, SVM 📈  <br>  - 🧬 DL: TensorFlow 🧪, Keras 🧱, Vision Transformer 👁️, Swin Transformer 🔄  <br>  - 🗣️ NLP: Text preprocessing ✂️, Transformers 🤯, Sentiment Analysis ❤️😡  <br>  - ⏳ Time Series: Forecasting 📉, Trend Analysis 📆  <br>  - 🧾 Model Explainability: SHAP 💡, LIME 🧃  <br>  - 🧰 Tools: Python 🐍, Pandas 🐼, NumPy 🔢, Matplotlib 📊, Seaborn 🌊, Google Colab 🧪<br>- 🛠️ **Dev Tools**: Git 🐙, GitHub 🧑‍💻, Postman 📬, Vite ⚡, VS Code 📝<br><br>---<br><br>### 🚀 Featured Projects<br>- 🩺 **Hybrid Deep & Machine Learning Web System**  <br>  🔍 Early detection of Diabetic Nephropathy using structured & image data  <br>- 🛒 **E-Commerce Clothing Store** – MERN stack online shop  <br>- 📚 **Study Material Sharing Platform** – Built for students & teachers  <br>- 🤖 **Gemini AI Clone** – AI-powered personal assistant chatbot<br><br>---<br><br>### 📘 Currently Learning<br>- 📊 **ML & DL** – Model building, tuning, explainability  <br>- 🧠 **NLP** – Chatbots, embeddings, language understanding  <br>- ⏱️ **Time Series** – Trend detection, forecasting models  <br>- 📈 **Data Science** – Visualization, insights, model evaluation<br><br>---<br><br>### 📫 Connect with Me<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thangadurai-g/)  <br>📧 **Email**: thangaduraibeit100@gmail.com  <br>🌐 **Portfolio**: [thangadurai.netlify.app](https://thangadurai-freelancer-portfolio.netlify.app//)<br><br>---<br><br>
+<div align="center">
 
+# Hi, I'm Thangadurai G
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Silver.Screen.Spot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thanga_durai_2830/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thangadurai-g/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Thanga_durai_30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com) 
+### B.Tech IT &nbsp;·&nbsp; Full Stack & App Developer &nbsp;·&nbsp; AI/ML Enthusiast &nbsp;·&nbsp; Freelancer
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Thangadurai2830&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Thangadurai2830&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thangadurai2830&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Passionate about building intelligent web & mobile apps — and turning ideas into real products.**<br/>
+I craft end-to-end systems — from pixel-perfect frontends and mobile apps to deep learning models.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thangadurai2830&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thangadurai-g/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thanga_durai_2830/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Thanga_durai_30)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Silver.Screen.Spot)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://thangadurai-freelancer-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com)
+
+<br/>
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThangadurai2830&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=4fa3e0&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Thangadurai2830?style=flat-square&color=6db33f&logo=github&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Thangadurai2830&color=ff6f00&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Thangadurai2830&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## What I Build & Offer
+
+![](https://img.shields.io/badge/I%20help%20startups%2C%20businesses%20%26%20individuals%20launch%20their%20digital%20products%20--%20fast%2C%20smart%20%26%20scalable.-1a1a2e?style=flat&labelColor=1a1a2e&color=1a1a2e)
+
+<br/>
+
+| ![Web](https://img.shields.io/badge/Web%20Development-0d1117?style=for-the-badge&logo=googlechrome&logoColor=4fa3e0) | ![App](https://img.shields.io/badge/App%20Development-0d1117?style=for-the-badge&logo=flutter&logoColor=54c5f8) | ![AI](https://img.shields.io/badge/AI%20%2F%20ML%20Integration-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00) |
+|:---:|:---:|:---:|
+| Custom websites, dashboards, SaaS platforms, landing pages & full-stack web apps built with modern frameworks | Cross-platform mobile apps for Android & iOS using Flutter & Dart — smooth, native-feel UI | Intelligent features — chatbots, recommendation engines, predictive models, image & NLP systems |
+| `React` `Node.js` `Django` `Spring Boot` | `Flutter` `Dart` `Firebase` | `TensorFlow` `Keras` `scikit-learn` |
+
+<br/>
+
+| ![Ecom](https://img.shields.io/badge/E--Commerce%20Solutions-0d1117?style=for-the-badge&logo=shopify&logoColor=96bf48) | ![UI](https://img.shields.io/badge/UI%20%2F%20UX%20Design-0d1117?style=for-the-badge&logo=figma&logoColor=f24e1e) | ![API](https://img.shields.io/badge/API%20%26%20Backend%20Services-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688) |
+|:---:|:---:|:---:|
+| End-to-end online stores with product management, carts, payments & order tracking | Beautiful, responsive interfaces built with Tailwind, GSAP animations & component-driven design | RESTful APIs, authentication, database design & cloud deployment |
+| `MERN Stack` `MongoDB` `MySQL` | `Tailwind` `Bootstrap` `GSAP` `Vite` | `Express` `Flask` `Vercel` `Netlify` |
+
+</div>
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+</div>
+
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/-%20Frontend-1a1a2e?style=for-the-badge&labelColor=0d1117&color=4fa3e0)
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite&perline=8" />
+
+<br/><br/>
+
+![Mobile](https://img.shields.io/badge/-%20Mobile%20%26%20App%20Development-1a1a2e?style=for-the-badge&labelColor=0d1117&color=54c5f8)
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&perline=8" />
+
+<br/><br/>
+
+![Backend](https://img.shields.io/badge/-%20Backend-1a1a2e?style=for-the-badge&labelColor=0d1117&color=6db33f)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,java,py&perline=8" />
+
+<br/><br/>
+
+![Database](https://img.shields.io/badge/-%20Database-1a1a2e?style=for-the-badge&labelColor=0d1117&color=4ea94b)
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=8" />
+
+<br/><br/>
+
+![AIML](https://img.shields.io/badge/-%20AI%20%2F%20ML%20%2F%20Deep%20Learning-1a1a2e?style=for-the-badge&labelColor=0d1117&color=ff6f00)
+
+<img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,sklearn,opencv&perline=8" />
+
+<br/><br/>
+
+![DataScience](https://img.shields.io/badge/-%20Data%20Science%20Tools-1a1a2e?style=for-the-badge&labelColor=0d1117&color=3670a0)
+
+<img src="https://skillicons.dev/icons?i=python,anaconda&perline=8" />
+
+<br/><br/>
+
+![DevTools](https://img.shields.io/badge/-%20Dev%20Tools%20%26%20Deployment-1a1a2e?style=for-the-badge&labelColor=0d1117&color=f05033)
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify,vercel,render,linux&perline=8" />
+
+</div>
+
+---
+
+<!-- <div align="center">
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Thangadurai2830&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangadurai2830&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=8" height="180"/>
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Thangadurai2830&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thangadurai2830&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div> -->
+
+---
+
+<div align="center">
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Thangadurai2830&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Got an idea? Let's build it together.
+
+[![Email](https://img.shields.io/badge/thangaduraibeit100%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/thangadurai.netlify.app-FF5733?style=flat-square&logo=firefox&logoColor=white)](https://thangadurai-freelancer-portfolio.netlify.app/)
+
+<br/>
+
+*"From idea to product — full stack, full speed."*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Thangadurai2830&color=4fa3e0&style=flat-square&label=Profile+Views)
+
+</div>
