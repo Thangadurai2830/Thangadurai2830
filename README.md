@@ -4,8 +4,8 @@
 
 ### B.Tech IT &nbsp;·&nbsp; Full Stack & App Developer &nbsp;·&nbsp; AI/ML Enthusiast &nbsp;·&nbsp; Freelancer
 
-**Passionate about building intelligent web & mobile apps — and turning ideas into real products.**<br/>
-I craft end-to-end systems — from pixel-perfect frontends and mobile apps to deep learning models.
+**Passionate about building intelligent web & mobile apps and turning ideas into real products.**<br/>
+I craft end-to-end systems from pixel-perfect frontends and mobile apps to deep learning models.
 
 <br/>
 
@@ -36,7 +36,7 @@ I craft end-to-end systems — from pixel-perfect frontends and mobile apps to d
 
 | ![Web](https://img.shields.io/badge/Web%20Development-0d1117?style=for-the-badge&logo=googlechrome&logoColor=4fa3e0) | ![App](https://img.shields.io/badge/App%20Development-0d1117?style=for-the-badge&logo=flutter&logoColor=54c5f8) | ![AI](https://img.shields.io/badge/AI%20%2F%20ML%20Integration-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00) |
 |:---:|:---:|:---:|
-| Custom websites, dashboards, SaaS platforms, landing pages & full-stack web apps built with modern frameworks | Cross-platform mobile apps for Android & iOS using Flutter & Dart — smooth, native-feel UI | Intelligent features — chatbots, recommendation engines, predictive models, image & NLP systems |
+| Custom websites, dashboards, SaaS platforms, landing pages & full-stack web apps built with modern frameworks | Cross-platform mobile apps for Android & iOS using Flutter & Dart — smooth, native-feel UI | Intelligent features chatbots, recommendation engines, predictive models, image & NLP systems |
 | `React` `Node.js` `Django` `Spring Boot` | `Flutter` `Dart` `Firebase` | `TensorFlow` `Keras` `scikit-learn` |
 
 <br/>
@@ -52,64 +52,25 @@ I craft end-to-end systems — from pixel-perfect frontends and mobile apps to d
 
 <div align="center">
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<br/>
+
+![](https://img.shields.io/badge/All%20my%20skills%20in%20one%20scroll-0d1117?style=flat-square&labelColor=0d1117&color=4fa3e0&logo=zap)
+
+<br/>
+
+<!-- 🔁 Animated scrolling marquee — commit tech-marquee.svg to your repo root -->
+
+
+<br/><br/>
+
+<!-- Static fallback: all icons in one combined image -->
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,flutter,dart,firebase,androidstudio,nodejs,express,django,flask,py,mongodb,mysql,git,github,postman,vscode,netlify,vercel,linux,tensorflow&perline=12" />
 
 </div>
-
-<div align="center">
-
-![Frontend](https://img.shields.io/badge/-%20Frontend-1a1a2e?style=for-the-badge&labelColor=0d1117&color=4fa3e0)
-
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&perline=8" />
-
-<br/><br/>
-
-![Mobile](https://img.shields.io/badge/-%20Mobile%20%26%20App%20Development-1a1a2e?style=for-the-badge&labelColor=0d1117&color=54c5f8)
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&perline=8" />
-
-<br/><br/>
-
-![Backend](https://img.shields.io/badge/-%20Backend-1a1a2e?style=for-the-badge&labelColor=0d1117&color=6db33f)
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,py&perline=8" />
-
-<br/><br/>
-
-![Database](https://img.shields.io/badge/-%20Database-1a1a2e?style=for-the-badge&labelColor=0d1117&color=4ea94b)
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=8" />
-
-<br/><br/>
-
-![DevTools](https://img.shields.io/badge/-%20Dev%20Tools%20%26%20Deployment-1a1a2e?style=for-the-badge&labelColor=0d1117&color=f05033)
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify,vercel,linux&perline=8" />
-
-</div>
-
-
-
-<!-- <div align="center">
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thangadurai2830&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangadurai2830&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Thangadurai2830&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thangadurai2830&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div> -->
 
 ---
-
 
 <div align="center">
 
@@ -117,11 +78,11 @@ I craft end-to-end systems — from pixel-perfect frontends and mobile apps to d
 
 [![Email](https://img.shields.io/badge/thangaduraibeit100%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/thangadurai.netlify.app-FF5733?style=flat-square&logo=firefox&logoColor=white)](https://thangadurai-portfolio.web.app/)
+[![Portfolio](https://img.shields.io/badge/thangadurai--portfolio.web.app-FF5733?style=flat-square&logo=firefox&logoColor=white)](https://thangadurai-portfolio.web.app/)
 
 <br/>
 
-*"From idea to product — full stack, full speed."*
+*"From idea to product full stack, full speed."*
 
 <br/>
 
