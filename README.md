@@ -13,7 +13,7 @@ I craft end-to-end systems — from pixel-perfect frontends and mobile apps to d
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thanga_durai_2830/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Thanga_durai_30)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Silver.Screen.Spot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://thangadurai-freelancer-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://thangadurai-portfolio.web.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com)
 
 <br/>
@@ -60,7 +60,7 @@ I craft end-to-end systems — from pixel-perfect frontends and mobile apps to d
 
 ![Frontend](https://img.shields.io/badge/-%20Frontend-1a1a2e?style=for-the-badge&labelColor=0d1117&color=4fa3e0)
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&perline=8" />
 
 <br/><br/>
 
@@ -72,7 +72,7 @@ I craft end-to-end systems — from pixel-perfect frontends and mobile apps to d
 
 ![Backend](https://img.shields.io/badge/-%20Backend-1a1a2e?style=for-the-badge&labelColor=0d1117&color=6db33f)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,java,py&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,py&perline=8" />
 
 <br/><br/>
 
@@ -82,25 +82,13 @@ I craft end-to-end systems — from pixel-perfect frontends and mobile apps to d
 
 <br/><br/>
 
-![AIML](https://img.shields.io/badge/-%20AI%20%2F%20ML%20%2F%20Deep%20Learning-1a1a2e?style=for-the-badge&labelColor=0d1117&color=ff6f00)
-
-<img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,sklearn,opencv&perline=8" />
-
-<br/><br/>
-
-![DataScience](https://img.shields.io/badge/-%20Data%20Science%20Tools-1a1a2e?style=for-the-badge&labelColor=0d1117&color=3670a0)
-
-<img src="https://skillicons.dev/icons?i=python,anaconda&perline=8" />
-
-<br/><br/>
-
 ![DevTools](https://img.shields.io/badge/-%20Dev%20Tools%20%26%20Deployment-1a1a2e?style=for-the-badge&labelColor=0d1117&color=f05033)
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify,vercel,render,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify,vercel,linux&perline=8" />
 
 </div>
 
----
+
 
 <!-- <div align="center">
 
@@ -122,15 +110,6 @@ I craft end-to-end systems — from pixel-perfect frontends and mobile apps to d
 
 ---
 
-<div align="center">
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thangadurai2830&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -138,7 +117,7 @@ I craft end-to-end systems — from pixel-perfect frontends and mobile apps to d
 
 [![Email](https://img.shields.io/badge/thangaduraibeit100%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/thangadurai.netlify.app-FF5733?style=flat-square&logo=firefox&logoColor=white)](https://thangadurai-freelancer-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/thangadurai.netlify.app-FF5733?style=flat-square&logo=firefox&logoColor=white)](https://thangadurai-portfolio.web.app/)
 
 <br/>
 
