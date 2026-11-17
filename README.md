@@ -1,91 +1,125 @@
-<div align="center">
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7c3aed&height=220&section=header&text=Thangadurai%20G&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20App%20Developer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Founder%20%40%20Zynfos&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+</p>
 
-# Hi, I'm Thangadurai G
+<p align="center">
+  <a href="https://zynfos.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+web+%26+mobile+products+end-to-end;React+%E2%80%A2+Node.js+%E2%80%A2+Flutter+%E2%80%A2+Django;Turning+ideas+into+real+products+%F0%9F%9A%80;From+idea+to+product+%E2%80%94+full+stack%2C+full+speed." alt="Typing SVG"/>
+  </a>
+</p>
 
-### B.Tech IT &nbsp;·&nbsp; Full Stack & App Developer &nbsp;·&nbsp; AI/ML Enthusiast &nbsp;·&nbsp; Freelancer
+<p align="center">
+  <a href="https://www.linkedin.com/in/thangadurai-g/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://www.instagram.com/thanga_durai_2830/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+  <a href="https://x.com/Thanga_durai_30"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.facebook.com/Silver.Screen.Spot"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>
+  <a href="https://thangadurai-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=FF7139"/></a>
+  <a href="mailto:thangaduraibeit100@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+</p>
 
-**Passionate about building intelligent web & mobile apps and turning ideas into real products.**<br/>
-I craft end-to-end systems from pixel-perfect frontends and mobile apps to deep learning models.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thangadurai2830&color=1f6feb&style=flat-square&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/Thangadurai2830?style=flat-square&color=7c3aed&label=FOLLOWERS&logo=github"/>
+  <img src="https://img.shields.io/badge/Open%20to-Freelance-2ea043?style=flat-square"/>
+</p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thangadurai-g/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thanga_durai_2830/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Thanga_durai_30)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Silver.Screen.Spot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://thangadurai-portfolio.web.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-<br/>
+```ts
+const thangadurai = {
+  role:      "Full Stack & App Developer · Founder @ Zynfos Solutions",
+  education: "B.Tech — Information Technology",
+  location:  "Chennai, Tamil Nadu 🇮🇳",
+  focus:     ["Web Apps", "Mobile Apps", "AI / ML Integration"],
+  currently: "Building products at zynfos.com & academy.zynfos.com",
+  motto:     "From idea to product — full stack, full speed.",
+};
+```
 
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThangadurai2830&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=4fa3e0&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/Thangadurai2830?style=flat-square&color=6db33f&logo=github&label=Followers)
-![Profile Views](https://komarev.com/ghpvc/?username=Thangadurai2830&color=ff6f00&style=flat-square&label=Profile+Views)
+## ✦ What I Build & Offer
 
-</div>
-
----
-
-<div align="center">
-
-## What I Build & Offer
-
-![](https://img.shields.io/badge/I%20help%20startups%2C%20businesses%20%26%20individuals%20launch%20their%20digital%20products%20--%20fast%2C%20smart%20%26%20scalable.-1a1a2e?style=flat&labelColor=1a1a2e&color=1a1a2e)
-
-<br/>
-
-| ![Web](https://img.shields.io/badge/Web%20Development-0d1117?style=for-the-badge&logo=googlechrome&logoColor=4fa3e0) | ![App](https://img.shields.io/badge/App%20Development-0d1117?style=for-the-badge&logo=flutter&logoColor=54c5f8) | ![AI](https://img.shields.io/badge/AI%20%2F%20ML%20Integration-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00) |
-|:---:|:---:|:---:|
-| Custom websites, dashboards, SaaS platforms, landing pages & full-stack web apps built with modern frameworks | Cross-platform mobile apps for Android & iOS using Flutter & Dart — smooth, native-feel UI | Intelligent features chatbots, recommendation engines, predictive models, image & NLP systems |
-| `React` `Node.js` `Django` `Spring Boot` | `Flutter` `Dart` `Firebase` | `TensorFlow` `Keras` `scikit-learn` |
-
-<br/>
-
-| ![Ecom](https://img.shields.io/badge/E--Commerce%20Solutions-0d1117?style=for-the-badge&logo=shopify&logoColor=96bf48) | ![UI](https://img.shields.io/badge/UI%20%2F%20UX%20Design-0d1117?style=for-the-badge&logo=figma&logoColor=f24e1e) | ![API](https://img.shields.io/badge/API%20%26%20Backend%20Services-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688) |
-|:---:|:---:|:---:|
-| End-to-end online stores with product management, carts, payments & order tracking | Beautiful, responsive interfaces built with Tailwind, GSAP animations & component-driven design | RESTful APIs, authentication, database design & cloud deployment |
-| `MERN Stack` `MongoDB` `MySQL` | `Tailwind` `Bootstrap` `GSAP` `Vite` | `Express` `Flask` `Vercel` `Netlify` |
-
-</div>
-
----
-
-<div align="center">
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 Web Development</h3>
+      Custom websites, dashboards, SaaS platforms & full-stack web apps.<br/><br/>
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>
+      <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B"/>
+      <img src="https://img.shields.io/badge/Spring-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📱 App Development</h3>
+      Cross-platform Android & iOS apps with smooth, native-feel UI.<br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B"/>
+      <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2"/>
+      <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 AI / ML Integration</h3>
+      Chatbots, recommendation engines, predictive models, vision & NLP.<br/><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+      <img src="https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=D00000"/>
+      <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛒 E-Commerce</h3>
+      Online stores with products, carts, payments & order tracking.<br/><br/>
+      <img src="https://img.shields.io/badge/MERN-0d1117?style=flat-square&logo=mongodb&logoColor=47A248"/>
+      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 UI / UX Design</h3>
+      Responsive interfaces with GSAP motion & component-driven design.<br/><br/>
+      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+      <img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02"/>
+      <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ API & Backend</h3>
+      REST APIs, auth, database design & cloud deployment.<br/><br/>
+      <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nodejs,express,django,flask,py,java,spring&perline=12&theme=dark"/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,mongodb,mysql,tensorflow,git,github,postman,vercel,netlify,linux,vscode&perline=14&theme=dark"/>
+</p>
 
-![](https://img.shields.io/badge/All%20my%20skills%20in%20one%20scroll-0d1117?style=flat-square&labelColor=0d1117&color=4fa3e0&logo=zap)
+## 📊 GitHub Analytics
 
-<br/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thangadurai2830&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangadurai2830&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Thangadurai2830&hide_border=true&background=0d1117&ring=7c3aed&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thangadurai2830&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity"/>
+</p>
 
-<!-- 🔁 Animated scrolling marquee — commit tech-marquee.svg to your repo root -->
-
-
-<br/><br/>
-
-<!-- Static fallback: all icons in one combined image -->
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,flutter,dart,firebase,androidstudio,nodejs,express,django,flask,py,mongodb,mysql,git,github,postman,vscode,netlify,vercel,linux,tensorflow&perline=12" />
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
-### Got an idea? Let's build it together.
+### 🤝 Got an idea? Let's build it together.
 
-[![Email](https://img.shields.io/badge/thangaduraibeit100%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thangaduraibeit100@gmail.com)
-&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/thangadurai--portfolio.web.app-FF5733?style=flat-square&logo=firefox&logoColor=white)](https://thangadurai-portfolio.web.app/)
-
-<br/>
-
-*"From idea to product full stack, full speed."*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Thangadurai2830&color=4fa3e0&style=flat-square&label=Profile+Views)
+<a href="https://zynfos.com"><img src="https://img.shields.io/badge/Zynfos%20Solutions-zynfos.com-1f6feb?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="https://academy.zynfos.com"><img src="https://img.shields.io/badge/Academy-academy.zynfos.com-7c3aed?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="mailto:thangaduraibeit100@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Email-EA4335?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=EA4335"/></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
