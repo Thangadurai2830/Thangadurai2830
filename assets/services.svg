@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#b8925a"/><stop offset=".5" stop-color="#f3dfb4"/><stop offset="1" stop-color="#b8925a"/></linearGradient>
+    <style>
+      .t{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+      .n{font-size:13px;letter-spacing:3px;fill:#d4b483}
+      .h{font-size:22px;font-weight:600;fill:#f5f5f7}
+      .p{font-size:14px;fill:#8b8f9c}
+      .s{font-size:12px;letter-spacing:1px;fill:#c9b48f}
+      .c{fill:#0b0d14;stroke:#ffffff;stroke-opacity:.08}
+      .card{opacity:0;animation:in .8s ease forwards}
+      @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    </style>
+  </defs>
+  <g class="t">
+    <g class="card" style="animation-delay:.0s"><rect x="1" y="1" width="386" height="208" rx="14" class="c"/><text x="32" y="48" class="n">01</text><text x="32" y="92" class="h">Web Development</text><text x="32" y="124" class="p">SaaS platforms, dashboards &amp;</text><text x="32" y="146" class="p">full-stack web applications.</text><text x="32" y="184" class="s">REACT · NODE · DJANGO · SPRING</text></g>
+    <g class="card" style="animation-delay:.15s"><rect x="407" y="1" width="386" height="208" rx="14" class="c"/><text x="438" y="48" class="n">02</text><text x="438" y="92" class="h">App Development</text><text x="438" y="124" class="p">Cross-platform Android &amp; iOS apps</text><text x="438" y="146" class="p">with a native-feel experience.</text><text x="438" y="184" class="s">FLUTTER · DART · FIREBASE</text></g>
+    <g class="card" style="animation-delay:.3s"><rect x="813" y="1" width="386" height="208" rx="14" class="c"/><text x="844" y="48" class="n">03</text><text x="844" y="92" class="h">AI / ML Integration</text><text x="844" y="124" class="p">Chatbots, recommendations,</text><text x="844" y="146" class="p">prediction, vision &amp; NLP.</text><text x="844" y="184" class="s">TENSORFLOW · KERAS · SKLEARN</text></g>
+    <g class="card" style="animation-delay:.45s"><rect x="1" y="229" width="386" height="208" rx="14" class="c"/><text x="32" y="276" class="n">04</text><text x="32" y="320" class="h">E-Commerce</text><text x="32" y="352" class="p">Stores with catalogues, carts,</text><text x="32" y="374" class="p">payments &amp; order tracking.</text><text x="32" y="412" class="s">MERN · MONGODB · MYSQL</text></g>
+    <g class="card" style="animation-delay:.6s"><rect x="407" y="229" width="386" height="208" rx="14" class="c"/><text x="438" y="276" class="n">05</text><text x="438" y="320" class="h">UI / UX Design</text><text x="438" y="352" class="p">Responsive interfaces with</text><text x="438" y="374" class="p">refined motion &amp; systems.</text><text x="438" y="412" class="s">TAILWIND · GSAP · FIGMA</text></g>
+    <g class="card" style="animation-delay:.75s"><rect x="813" y="229" width="386" height="208" rx="14" class="c"/><text x="844" y="276" class="n">06</text><text x="844" y="320" class="h">API &amp; Backend</text><text x="844" y="352" class="p">REST APIs, authentication,</text><text x="844" y="374" class="p">databases &amp; cloud deploys.</text><text x="844" y="412" class="s">EXPRESS · FLASK · VERCEL</text></g>
+  </g>
+</svg>
