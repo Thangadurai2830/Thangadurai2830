@@ -80,8 +80,8 @@
 <h3 align="center"><samp>— &nbsp;M E T R I C S&nbsp; —</samp></h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thangadurai2830&show_icons=true&hide_border=true&bg_color=0b0d14&title_color=d4b483&icon_color=d4b483&text_color=8b8f9c&ring_color=d4b483&rank_icon=github&count_private=true&border_radius=14"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangadurai2830&layout=compact&hide_border=true&bg_color=0b0d14&title_color=d4b483&text_color=8b8f9c&langs_count=8&border_radius=14"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thangadurai2830&theme=github_dark" alt="GitHub stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thangadurai2830&theme=github_dark" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Thangadurai2830&hide_border=true&border_radius=14&background=0b0d14&ring=d4b483&fire=d4b483&currStreakLabel=d4b483&sideLabels=8b8f9c&dates=5c606b&currStreakNum=f5f5f7&sideNums=f5f5f7&stroke=1f2128"/>
