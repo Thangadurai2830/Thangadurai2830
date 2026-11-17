@@ -3,14 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://zynfos.com"><img src="https://img.shields.io/badge/ZYNFOS-0b0d14?style=for-the-badge"/></a>
+  <a href="https://zynfos.com"><img src="https://img.shields.io/badge/ZYNFOS.COM-0b0d14?style=for-the-badge&logo=googlechrome&logoColor=D4B483"/></a>
   <a href="https://kalvione.tech/"><img src="https://img.shields.io/badge/KALVIONE-0b0d14?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/thangadurai-g/"><img src="https://img.shields.io/badge/LINKEDIN-0b0d14?style=for-the-badge&logo=linkedin&logoColor=D4B483"/></a>
-  <a href="https://x.com/Thanga_durai_30"><img src="https://img.shields.io/badge/X-0b0d14?style=for-the-badge&logo=x&logoColor=D4B483"/></a>
-  <a href="https://www.instagram.com/thanga_durai_2830/"><img src="https://img.shields.io/badge/INSTAGRAM-0b0d14?style=for-the-badge&logo=instagram&logoColor=D4B483"/></a>
-  <a href="https://www.facebook.com/Silver.Screen.Spot"><img src="https://img.shields.io/badge/FACEBOOK-0b0d14?style=for-the-badge&logo=facebook&logoColor=D4B483"/></a>
-  <a href="https://thangadurai-portfolio.web.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0b0d14?style=for-the-badge&logo=googlechrome&logoColor=D4B483"/></a>
-  <a href="mailto:thangaduraibeit100@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b0d14?style=for-the-badge&logo=gmail&logoColor=D4B483"/></a>
+  <a href="https://www.linkedin.com/company/zynfos-solutions/"><img src="https://img.shields.io/badge/LINKEDIN-0b0d14?style=for-the-badge&logo=linkedin&logoColor=D4B483"/></a>
+  <a href="https://www.instagram.com/zynfos/"><img src="https://img.shields.io/badge/INSTAGRAM-0b0d14?style=for-the-badge&logo=instagram&logoColor=D4B483"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61590253524855"><img src="https://img.shields.io/badge/FACEBOOK-0b0d14?style=for-the-badge&logo=facebook&logoColor=D4B483"/></a>
+  <a href="mailto:info@zynfos.com"><img src="https://img.shields.io/badge/EMAIL-0b0d14?style=for-the-badge&logo=gmail&logoColor=D4B483"/></a>
 </p>
 
 <p align="center">
@@ -45,7 +43,7 @@
 <p align="center">
   <a href="https://kalvione.tech/"><img src="https://img.shields.io/badge/EXPLORE%20KALVIONE-D4B483?style=for-the-badge&labelColor=0b0d14"/></a>
   &nbsp;
-  <a href="mailto:thangaduraibeit100@gmail.com?subject=KalviOne%20Demo"><img src="https://img.shields.io/badge/BOOK%20A%20DEMO-0b0d14?style=for-the-badge"/></a>
+  <a href="mailto:info@zynfos.com?subject=KalviOne%20Demo"><img src="https://img.shields.io/badge/BOOK%20A%20DEMO-0b0d14?style=for-the-badge"/></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -96,7 +94,7 @@
 
 <p align="center">
   <samp>Got an idea? Let's build it together.</samp><br/><br/>
-  <a href="mailto:thangaduraibeit100@gmail.com"><img src="https://img.shields.io/badge/START%20A%20PROJECT-D4B483?style=for-the-badge&labelColor=0b0d14"/></a>
+  <a href="mailto:info@zynfos.com"><img src="https://img.shields.io/badge/START%20A%20PROJECT-D4B483?style=for-the-badge&labelColor=0b0d14"/></a>
   &nbsp;
   <a href="https://zynfos.com"><img src="https://img.shields.io/badge/ZYNFOS.COM-0b0d14?style=for-the-badge"/></a>
 </p>
