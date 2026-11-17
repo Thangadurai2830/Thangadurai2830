@@ -50,13 +50,13 @@
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<h3 align="center"><samp>— &nbsp;S E L E C T E D&nbsp; W O R K&nbsp; —</samp></h3>
+<h3 align="center"><samp>— &nbsp;P R O D U C T S&nbsp; —</samp></h3>
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><a href="https://e-commerce.zynfos.com/"><img src="./assets/ecommerce-store.png" width="100%"/></a><br/><samp><b>Fashion Storefront</b></samp><br/><sub>Next.js · Stripe · Razorpay</sub></td>
-    <td align="center" width="33%"><a href="https://tea-shop.zynfos.com/"><img src="./assets/tea-shop.png" width="100%"/></a><br/><samp><b>Chai &amp; Co. Tea House</b></samp><br/><sub>Next.js · Framer Motion</sub></td>
-    <td align="center" width="33%"><a href="https://wedding-event.zynfos.com/"><img src="./assets/wedding-event.png" width="100%"/></a><br/><samp><b>Eternally Yours Weddings</b></samp><br/><sub>Next.js · Tailwind CSS</sub></td>
+    <td align="center" width="33%" valign="top"><a href="https://academy.zynfos.com/"><img src="./assets/academy.png" width="100%"/></a><br/><samp><b>Zynfos Academy</b></samp><br/><sub>Project-based internships · verifiable certificates</sub><br/><a href="https://academy.zynfos.com/"><sub>academy.zynfos.com →</sub></a></td>
+    <td align="center" width="33%" valign="top"><a href="https://course.zynfos.com/"><img src="./assets/course-platform.png" width="100%"/></a><br/><samp><b>Developer Courses</b></samp><br/><sub>26 free career-focused courses</sub><br/><a href="https://course.zynfos.com/"><sub>course.zynfos.com →</sub></a></td>
+    <td align="center" width="33%" valign="top"><a href="https://resumebuilder.zynfos.com/"><img src="./assets/resume-builder.png" width="100%"/></a><br/><samp><b>Resume Builder</b></samp><br/><sub>ATS-friendly resumes · PDF export</sub><br/><a href="https://resumebuilder.zynfos.com/"><sub>resumebuilder.zynfos.com →</sub></a></td>
   </tr>
 </table>
 
