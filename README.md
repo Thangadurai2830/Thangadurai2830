@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://zynfos.com"><img src="https://img.shields.io/badge/ZYNFOS-0b0d14?style=for-the-badge&logoColor=D4B483&labelColor=0b0d14&color=0b0d14"/></a>
+  <a href="https://zynfos.com"><img src="https://img.shields.io/badge/ZYNFOS-0b0d14?style=for-the-badge"/></a>
+  <a href="https://kalvione.tech/"><img src="https://img.shields.io/badge/KALVIONE-0b0d14?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/thangadurai-g/"><img src="https://img.shields.io/badge/LINKEDIN-0b0d14?style=for-the-badge&logo=linkedin&logoColor=D4B483"/></a>
   <a href="https://x.com/Thanga_durai_30"><img src="https://img.shields.io/badge/X-0b0d14?style=for-the-badge&logo=x&logoColor=D4B483"/></a>
   <a href="https://www.instagram.com/thanga_durai_2830/"><img src="https://img.shields.io/badge/INSTAGRAM-0b0d14?style=for-the-badge&logo=instagram&logoColor=D4B483"/></a>
@@ -24,9 +25,40 @@
   <samp>
   Founder of <a href="https://zynfos.com">Zynfos Solutions</a> · B.Tech IT · Chennai, India<br/>
   I help startups, businesses &amp; individuals launch digital products — fast, smart &amp; scalable.<br/>
+  Creator of <a href="https://kalvione.tech/">KalviOne</a> — a school ERP live in beta.<br/>
   Currently building <a href="https://zynfos.com">zynfos.com</a> &amp; <a href="https://academy.zynfos.com">academy.zynfos.com</a>.
   </samp>
 </p>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<h3 align="center"><samp>— &nbsp;F L A G S H I P&nbsp; P R O D U C T&nbsp; —</samp></h3>
+
+<p align="center">
+  <a href="https://kalvione.tech/"><img src="./assets/kalvione.svg" width="100%" alt="KalviOne — School Management ERP"/></a>
+</p>
+
+<p align="center">
+  <a href="https://kalvione.tech/"><img src="./assets/kalvione.png" width="92%" alt="KalviOne dashboard" style="border-radius:12px"/></a>
+</p>
+
+<p align="center">
+  <a href="https://kalvione.tech/"><img src="https://img.shields.io/badge/EXPLORE%20KALVIONE-D4B483?style=for-the-badge&labelColor=0b0d14"/></a>
+  &nbsp;
+  <a href="mailto:thangaduraibeit100@gmail.com?subject=KalviOne%20Demo"><img src="https://img.shields.io/badge/BOOK%20A%20DEMO-0b0d14?style=for-the-badge"/></a>
+</p>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<h3 align="center"><samp>— &nbsp;S E L E C T E D&nbsp; W O R K&nbsp; —</samp></h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><a href="https://e-commerce.zynfos.com/"><img src="./assets/ecommerce-store.png" width="100%"/></a><br/><samp><b>Fashion Storefront</b></samp><br/><sub>Next.js · Stripe · Razorpay</sub></td>
+    <td align="center" width="33%"><a href="https://tea-shop.zynfos.com/"><img src="./assets/tea-shop.png" width="100%"/></a><br/><samp><b>Chai &amp; Co. Tea House</b></samp><br/><sub>Next.js · Framer Motion</sub></td>
+    <td align="center" width="33%"><a href="https://wedding-event.zynfos.com/"><img src="./assets/wedding-event.png" width="100%"/></a><br/><samp><b>Eternally Yours Weddings</b></samp><br/><sub>Next.js · Tailwind CSS</sub></td>
+  </tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%"/>
 

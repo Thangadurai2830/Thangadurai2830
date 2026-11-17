@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0d14"/><stop offset="1" stop-color="#11131c"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#b8925a"/><stop offset=".5" stop-color="#f3dfb4"/><stop offset="1" stop-color="#b8925a"/></linearGradient>
+    <radialGradient id="glow" cx=".85" cy=".2" r=".6"><stop offset="0" stop-color="#d4b483" stop-opacity=".16"/><stop offset="1" stop-color="#d4b483" stop-opacity="0"/></radialGradient>
+    <style>
+      .t{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+      .k{font-size:12px;letter-spacing:5px;fill:#d4b483}
+      .n{font-size:54px;font-weight:300;letter-spacing:2px;fill:url(#gold)}
+      .d{font-size:17px;fill:#a3a7b3}
+      .f{font-size:15px;fill:#e6e6ea}
+      .m{font-size:11px;letter-spacing:3px;fill:#8b8f9c}
+      .v{font-size:26px;font-weight:300;fill:#f3dfb4}
+      .pill{fill:#d4b483;fill-opacity:.1;stroke:#d4b483;stroke-opacity:.45}
+      .dot{fill:#3fb950;animation:p 1.6s ease-in-out infinite}
+      .row{opacity:0;animation:in .7s ease forwards}
+      @keyframes p{50%{opacity:.25}}
+      @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="18" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="1199" height="419" rx="18" fill="none" stroke="#d4b483" stroke-opacity=".25"/>
+  <g class="t">
+    <text x="56" y="70" class="k">FLAGSHIP PRODUCT · EDTECH SAAS</text>
+    <text x="52" y="136" class="n">KalviOne</text>
+    <rect x="300" y="104" width="126" height="32" rx="16" class="pill"/>
+    <circle cx="320" cy="120" r="5" class="dot"/>
+    <text x="334" y="125" class="t" font-size="12" letter-spacing="2" fill="#f3dfb4">LIVE · BETA</text>
+    <text x="56" y="180" class="d">One intelligent school ERP connecting students, teachers,</text>
+    <text x="56" y="204" class="d">parents and management on a single platform.</text>
+
+    <g class="row" style="animation-delay:.1s"><text x="56" y="256" class="f"><tspan fill="#d4b483">◆</tspan>  Attendance &amp; timetables</text></g>
+    <g class="row" style="animation-delay:.25s"><text x="56" y="288" class="f"><tspan fill="#d4b483">◆</tspan>  Fees with WhatsApp receipts</text></g>
+    <g class="row" style="animation-delay:.4s"><text x="56" y="320" class="f"><tspan fill="#d4b483">◆</tspan>  Exams, marks &amp; report cards</text></g>
+    <g class="row" style="animation-delay:.1s"><text x="340" y="256" class="f"><tspan fill="#d4b483">◆</tspan>  Parent mobile app</text></g>
+    <g class="row" style="animation-delay:.25s"><text x="340" y="288" class="f"><tspan fill="#d4b483">◆</tspan>  Role-based dashboards</text></g>
+    <g class="row" style="animation-delay:.4s"><text x="340" y="320" class="f"><tspan fill="#d4b483">◆</tspan>  Instant WhatsApp alerts</text></g>
+
+    <text x="56" y="376" class="m">NEXT.JS  ·  NODE.JS  ·  POSTGRESQL</text>
+
+    <line x1="700" y1="60" x2="700" y2="360" stroke="#ffffff" stroke-opacity=".08"/>
+    <text x="760" y="110" class="m">BUILT FOR</text>
+    <text x="760" y="146" class="v">4 roles</text>
+    <text x="760" y="168" class="t" font-size="13" fill="#8b8f9c">Admin · Teacher · Parent · Student</text>
+    <text x="760" y="226" class="m">MODULES</text>
+    <text x="760" y="262" class="v">One platform</text>
+    <text x="760" y="284" class="t" font-size="13" fill="#8b8f9c">Academics · Finance · Communication</text>
+    <text x="760" y="342" class="m">VISIT</text>
+    <text x="760" y="372" class="t" font-size="20" fill="url(#gold)">kalvione.tech  →</text>
+  </g>
+</svg>
